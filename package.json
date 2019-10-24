@@ -1,0 +1,13 @@
+{
+    "name": "",
+    "main": "index.html",
+    "js-flags": "--expose-gc",
+    "chromium-args": "--enable-gpu-rasterization --enable-gpu-memory-buffer-video-frames --enable-native-gpu-memory-buffers --enable-zero-copy --enable-gpu-async-worker-context",
+    "window": {
+        "title": "",
+        "toolbar": false,
+        "width": 1280,//816,
+        "height": 800,//624,
+        "icon": "icon/icon.png"
+    }
+}
